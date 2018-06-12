@@ -13,7 +13,7 @@ Imagine you need to send an SMS and get the delivery notification, invoke a USSD
 
   - ###### Java  - [API Reference](http://breakdance.io)
   - ###### PHP -  [API Reference](http://breakdance.io)
-  - ###### Phython -  [API Reference](http://breakdance.io)
+  - ###### Python -  [API Reference](http://breakdance.io)
   - ###### Go -  [API Reference](http://breakdance.io)
   
   
@@ -33,17 +33,13 @@ Imagine you need to send an SMS and get the delivery notification, invoke a USSD
 
 # Getting Started
 
-Getting started with the Twilio API couldn't be easier
+Getting started with the ideamart API's couldn't be easier
 
 ### Server Requirments 
 ideamart officially support PHP, Java, Python, Go, Nodejs programming languages
 
 ##### php requirments
-PHP >= 5.6 is supported 
-
-##### Java requirments
-...
-
+Python 3.4.3 is supported 
 
 ### Installation
 If you have PHP installed locally or a server and you would like to use PHP's built-in development server to serve your application,
