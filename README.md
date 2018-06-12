@@ -38,7 +38,7 @@ Getting started with the ideamart API's couldn't be easier
 ### Server Requirments 
 ideamart officially support PHP, Java, Python, Go, Nodejs programming languages
 
-##### php requirments
+##### Python requirments
 Python 3.4.3 is supported 
 
 ### Installation
